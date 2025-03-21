@@ -1,2 +1,3 @@
 # Altera_DE10
-This is the simple instruction to setup and run DSP builder model and verilog or other HDL model in Altera DE10 standard FPGA.
+This is a simple instruction for setting up and running a DSP builder model and Verilog or other HDL models in an Altera DE10 standard FPGA.
+DSP builder is a GUI from Matlab/Simulink that helps you design models using Blocks. You don't need prior experience in HDL to begin with this. DSP builder can compile its model in Quartus Prime Standard and Pro, and generate various file need to run in Altera/Intel FPGA. 
